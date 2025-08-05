@@ -27,7 +27,7 @@ The **RGB Color Picker** is an interactive Arduino project that lets you control
 This project demonstrates basic serial input processing and PWM control, and is easily extendable to support more colors.
 
 ---
-![enter image description here](file:///Users/cits/Downloads/Brave%20Waasa%20%281%29.png)
+![enter image description here](https://raw.githubusercontent.com/Victory-Inc/RGB-color-picker/refs/heads/main/Brave%20Waasa%20%281%29.png)
 ## 📦 Getting Started
 
 1. Connect the RGB LED to the Arduino according to the picture above.
