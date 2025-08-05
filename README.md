@@ -1,3 +1,4 @@
+
 # 🎨 RGB Color Picker (Arduino Project)
 
 The **RGB Color Picker** is an interactive Arduino project that lets you control the color of an RGB LED by entering color names into the Serial Monitor. Once a color is typed, the LED will illuminate in that color. This is a great beginner-friendly project for learning about serial communication and color mixing with RGB LEDs.
@@ -26,10 +27,10 @@ The **RGB Color Picker** is an interactive Arduino project that lets you control
 This project demonstrates basic serial input processing and PWM control, and is easily extendable to support more colors.
 
 ---
-
+![enter image description here](file:///Users/cits/Downloads/Brave%20Waasa%20%281%29.png)
 ## 📦 Getting Started
 
-1. Connect the RGB LED to the Arduino with resistors (R → Pin 9, G → Pin 10, B → Pin 11, common → GND or 5V depending on LED type).
+1. Connect the RGB LED to the Arduino according to the picture above.
 2. Upload the Arduino sketch.
 3. Open the Serial Monitor (set baud rate to `9600`).
 4. Type a color name and press Enter.
